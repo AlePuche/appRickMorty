@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Rick Sanchez",
+      "species": "Human",
+      "image": "test/assets/1.jpeg",
+      "status": "Alive",
+      "location": {
+        "name": "Citadel of Ricks"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Morty Smith",
+      "species": "Human",
+      "image": "test/assets/2.jpeg",
+      "status": "Alive",
+      "location": {
+        "name": "Earth"
+      }
+    }
+  ]
+}
